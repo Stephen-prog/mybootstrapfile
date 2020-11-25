@@ -1,0 +1,31 @@
+body{
+    font-family: 'Arvo', serif;
+}
+
+.height{
+    min-height: 100vh;
+}
+.title-underline{
+    width: 300px;
+    height: 10px;
+    margin: 0 auto;
+    /* background: blue!important; */
+
+}
+.height-80{
+  min-height:100vh
+}
+.about-picture{
+    background: url("../img/img1.svg") center/cover no-repeat fixed;
+    /* background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+}
+
+#filler,#progress{
+    background: url("../img/img11.svg") center/cover no-repeat fixed;
+  /* linear-gradient:add to the image to make your taste brighter */
+}
+
+  
